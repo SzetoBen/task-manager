@@ -26,10 +26,10 @@ Simple React Native app for managing daily tasks. You can add, complete, and del
    ```
 
 3. **Run on your device or emulator**
-   - For iOS: Press `i` in the terminal or use the Expo Go app.
-   - For Android: Press `a` in the terminal or use the Expo Go app.
+   - For iOS: Press `i` in the terminal or scan the QR code to use the Expo Go app.
+   - For Android: Press `a` in the terminal or scan the QR code use the Expo Go app.
 
-## Special Instructions
+## How To Use
 - Tap "Show Completed" to view all tasks (including completed ones). Tap "Hide Completed" to view only incomplete tasks.
 - To add a task, type in the input field and press the "+" button or the return key.
 - Tap the checkbox to mark a task as completed.
